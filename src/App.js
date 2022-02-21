@@ -90,11 +90,3 @@ const App = () => {
 }
 
 export default App
-
-
-
-
-// import Products from './components/Products/Products';
-// import Navbar from './components/Navbar/Navbar';
-// LO DE ARRIBA SIMPLIFICADO ABAJO
-// import { Products, Navbar } from './components'
